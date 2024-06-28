@@ -1,0 +1,3 @@
+/home/ubuntu/pico/simple-pwm-pico/build/pioasm/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/pico/simple-pwm-pico/build/pioasm/CMakeFiles/edit_cache.dir
+/home/ubuntu/pico/simple-pwm-pico/build/pioasm/CMakeFiles/pioasm.dir
